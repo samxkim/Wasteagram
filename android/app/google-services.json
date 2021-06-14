@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066903251999",
+    "project_id": "wasteagram-c5b0c",
+    "storage_bucket": "wasteagram-c5b0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066903251999:android:d3254544baff3dfb92b92a",
+        "android_client_info": {
+          "package_name": "com.example.wasteagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066903251999-jjjkdd73sjjuint94ekq6uii3p7jfipm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8nbdKwEWSSQnqKwZTqSkuuWCr93H0JMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066903251999-jjjkdd73sjjuint94ekq6uii3p7jfipm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
